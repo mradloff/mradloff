@@ -13,7 +13,7 @@ Here is my calendar where you can check my availabile appointments:
 </div>
 
 <br>To schedule an appointment:
-<br>E-mail: [{{site.email}}]({{site.email}})
+<br>E-mail: [{{site.email}}](mailto:{{site.email}})
 <br>Phone: [{{site.phone}}](tel:{{site.phone}})
 
 Please include your preferred name, preferred contact information, and availability when sending an e-mail or leaving a voicemail.

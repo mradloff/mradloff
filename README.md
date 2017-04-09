@@ -26,9 +26,9 @@ To edit things like name, contact info, etc modify `_config.yaml`. To include th
 ```
 _config.yml
 ...
-phone: 123-456-7890
+name: Michael Radloff
 
 pages/page1.md
 ...
-This is my phone number: {{site.phone}}
+This is my name: {{site.name}}
 ```

@@ -9,7 +9,7 @@
         <ul class="contact-list">
           <span>{{ site.personal_title | escape }}</span>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <span>{{ site.phone | escape }}</span>
+          <span><a href="tel:{{ site.phone | escape }}">{{ site.phone }}</a></span>
         </ul>
       </div>
 
