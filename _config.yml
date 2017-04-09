@@ -13,15 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Michael Radloff, Counselor In-Training
+title: Michael Radloff, LPC-IT
 name: Michael Radloff
-personal_title: Counselor In-Training
+personal_title: LPC-IT
 email: radloffcounseling@gmail.com
 phone: (608) 509-4997
-description: > # this means to ignore newlines until "baseurl:"
-  My name is Michael Radloff and I am here for the people.
+description: My name is Michael Radloff and I am here for the people.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://radlofflpc.appspot.com" # the base hostname & protocol for your site
+
+# Main Page
+home_label: I am pretty cool
 
 # Build settings
 markdown: kramdown
