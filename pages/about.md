@@ -17,7 +17,7 @@ In addition to counseling, I enjoy a variety of activities. You will likely catc
 
 While this page cannot share everything about me, I hope it has provided you some background as who I am as a mental health counselor and person. If you are interested in learning more about my counseling services, please check out my services page. Please feel free to also view my contact page as well if you would like to schedule a counseling appointment. Thank you for reading and I look forward to having the opportunity to working with you as one of my clients!
 
-# Credentials:
+## Credentials:
 * Bachelor degree in Communication Arts:  Rhetoric & Human Behavior (2014)
 * Master of Science degree in Clinical Mental Health Counseling (2017)
 * Nationally Certified Counselor (NCC)
