@@ -23,7 +23,7 @@ Please view my calendar for my current available times for the week.
 
 To schedule an appointment, please fill out the following form. I will e-mail you back with an appointment confirmation. Appointments are on a first-come basis.
 
-<br>To schedule an appointment:
+To schedule an appointment:
 <br>E-mail: [{{site.email}}](mailto:{{site.email}})
 <br>Phone: [{{site.phone}}](tel:{{site.phone}})
 
