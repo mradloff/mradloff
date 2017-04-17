@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-# Interested in scheduling an appointment? Please do not hesitate to contact me!
+# Interested in scheduling an appointment? 
+# Please do not hesitate to contact me!
 
 I am currently offering evening and weekend sessions. My hours include:
 
@@ -30,4 +31,4 @@ To schedule an appointment, please fill out the following form. I will e-mail yo
 
 If you contact me directly, please include your preferred name, preferred contact information, and availability when sending an e-mail or leaving a voicemail.
 
-## "If you don't know where you're going any road can take you there." - Alice in Wonderland
+>> "If you don't know where you're going any road can take you there." - Alice in Wonderland
