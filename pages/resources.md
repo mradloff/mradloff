@@ -6,7 +6,12 @@ permalink: /resources/
 
 # Resources
 
-Here are some things and stuff
+Simply looking for mental health resources? This page is a collection of books, articles, and videos that I have found to be helpful for myself and others. Please feel free to take a look!
 
-* [My Favorite One](http://google.com/)
-* [Another One](http://google.com/)
+Currently under construction - PLEASE CHECK BACK SOON FOR UPDATES!
+
+## Book Recommendaitons
+
+## Helpful Articles & Research Studies
+
+## Video & Movie Recommendations
