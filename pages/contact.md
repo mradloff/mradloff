@@ -31,10 +31,10 @@ To schedule an appointment, please fill out the following form. I will e-mail yo
 If you contact me directly, please include your preferred name, preferred contact information, and availability when sending an e-mail or leaving a voicemail.
 
 ## Contact Me
-<form accept-charset="UTF-8" action="https://maker.ifttt.com/use/dGm34ZlhBkuTNzEkYhNPrv" method="POST">
-  <input type="email" name="email" placeholder="Your Email">
-  <input type="text" name="name" placeholder="Your Name">
-  <input type="text" name="content" value="Content">
+<form accept-charset="UTF-8" action="https://maker.ifttt.com/trigger/form/with/key/dGm34ZlhBkuTNzEkYhNPrv" method="POST">
+  <input type="email" name="value1" placeholder="Your Email">
+  <input type="text" name="value2" placeholder="Your Name">
+  <input type="text" name="value3" value="Content">
   <button type="submit">Submit</button>
 </form>
 
