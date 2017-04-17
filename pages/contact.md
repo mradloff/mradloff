@@ -30,5 +30,4 @@ To schedule an appointment, please fill out the following form. I will e-mail yo
 
 If you contact me directly, please include your preferred name, preferred contact information, and availability when sending an e-mail or leaving a voicemail.
 
-## "If you don't know where you're going any road can take you there." 
-   From Alice in Wonderland
+## "If you don't know where you're going any road can take you there." - Alice in Wonderland
