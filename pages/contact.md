@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
+order: 3
 ---
 
 # Interested in scheduling an appointment? 
