@@ -22,7 +22,6 @@ Please view my calendar for my current available times for the week.
 </div>
 
 
-## Please do not hesitate contacting me!
 
 To schedule an appointment, please fill out the following form. I will e-mail you back with an appointment confirmation. Appointments are on a first-come basis.
 
@@ -32,4 +31,4 @@ To schedule an appointment, please fill out the following form. I will e-mail yo
 
 If you contact me directly, please include your preferred name, preferred contact information, and availability when sending an e-mail or leaving a voicemail.
 
->> "If you don't know where you're going any road can take you there." - Alice in Wonderland
+> "If you don't know where you're going any road can take you there." - Alice in Wonderland
