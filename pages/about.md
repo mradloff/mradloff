@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+order: 1
 ---
 
 <img src="/img/michael_radloff_1.jpg" id="portrait" class="round" alt="portrait">
