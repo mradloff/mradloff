@@ -18,11 +18,12 @@ name: Michael Radloff
 personal_title: NCC, LPC-IT, LMFT-IT
 email: radloffcounseling@gmail.com
 phone: (608) 509-4997
-description: Providing quality and meaningful counseling services.
-Hours:
-Monday - Thursday:  5:00 - 8:00pm
-Friday:  5:00 - 7:00pm
-Saturday:  10:00am - 3:00pm
+description: |
+ Providing quality and meaningful counseling services.
+ Hours:
+ Monday - Thursday:  5:00 - 8:00pm
+ Friday:  5:00 - 7:00pm
+ Saturday:  10:00am - 3:00pm
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://radlofflpc.appspot.com" # the base hostname & protocol for your site
 
