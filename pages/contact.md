@@ -20,7 +20,6 @@ Please view my calendar for my current available times for the week.
 <div class="responsiveCal">
   <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FChicago" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
-<br>
 
 To schedule an appointment, please fill out the following form. I will e-mail you back with an appointment confirmation. Appointments are on a first-come basis.
 
