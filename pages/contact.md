@@ -35,6 +35,7 @@ If you contact me directly, please include your preferred name, preferred contac
   <input type="email" name="value1" placeholder="Your Email">
   <input type="text" name="value2" placeholder="Your Name">
   <input type="text" name="value3" value="Content">
+  <input type="hidden" name="resulturl" value="/contact">
   <button type="submit">Submit</button>
 </form>
 
