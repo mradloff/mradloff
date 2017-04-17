@@ -20,6 +20,7 @@ email: radloffcounseling@gmail.com
 phone: (608) 509-4997
 description: |
  Providing quality and meaningful counseling services.<br><br>
+ Hours <br>
  Monday - Thursday:  5:00 - 8:00pm<br>
  Friday:  5:00 - 7:00pm<br>
  Saturday:  10:00am - 3:00pm
@@ -28,7 +29,7 @@ url: "http://radlofflpc.appspot.com" # the base hostname & protocol for your sit
 
 # Main Page
 home_label: |
- "The road goes ever on and on"<br>
+ "The road goes ever on and on."<br>
  - J.R.R. Tolkien
 
 # Build settings
