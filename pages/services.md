@@ -2,6 +2,7 @@
 layout: default
 title: Counseling Services
 permalink: /services/
+order: 2
 ---
 
 # Counseling Services
