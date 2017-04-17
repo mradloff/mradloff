@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 # Interested in scheduling an appointment? 
-# Please do not hesitate to contact me!
+## Please do not hesitate to contact me!
 
 I am currently offering evening and weekend sessions. My hours include:
 
