@@ -24,7 +24,7 @@ description: |
  Friday:  5:00 - 7:00pm<br>
  Saturday:  10:00am - 3:00pm
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mradloff.github.io" # the base hostname & protocol for your site
+url: "http://badgerlandcounseling.com" # the base hostname & protocol for your site
 
 # Main Page
 home_label: |
